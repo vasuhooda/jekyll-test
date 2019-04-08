@@ -1,0 +1,13 @@
+---
+label: test
+hide_body: false
+fields:
+- type: text
+  default: sd
+- type: text
+  name: testt
+  label: test
+  description: f
+  hidden: false
+  config:
+    required: false
