@@ -11,3 +11,5 @@ fields:
   hidden: false
   config:
     required: false
+pages:
+- test.md
